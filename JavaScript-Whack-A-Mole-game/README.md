@@ -9,3 +9,11 @@ When the Game Start, by clicking on the title, a Mole will "Pop" from a random H
 
 This was made with only pure **vanilla JavaScript**.  
   
+Key concepts covered :-
+1. JavaScript CSS Manipulation
+2. JavaScript DOM Manipulation
+3. event listeners
+4. conditionals
+5. Jquery
+6. local storage
+and much more...
